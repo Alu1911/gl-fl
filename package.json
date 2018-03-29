@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      "gl-react-instagramfilters@0.2.0",
+      "/Users/bachir/react-native-crop-gl-react"
+    ]
+  ],
+  "_from": "gl-react-instagramfilters@0.2.0",
+  "_id": "gl-react-instagramfilters@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-t7pFmdjtHJe0lyUQ7+24tGglaHM=",
+  "_location": "/gl-react-instagramfilters",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "gl-react-instagramfilters@0.2.0",
+    "name": "gl-react-instagramfilters",
+    "escapedName": "gl-react-instagramfilters",
+    "rawSpec": "0.2.0",
+    "saveSpec": null,
+    "fetchSpec": "0.2.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gl-react-instagramfilters/-/gl-react-instagramfilters-0.2.0.tgz",
+  "_spec": "0.2.0",
+  "_where": "/Users/bachir/react-native-crop-gl-react",
+  "author": {
+    "name": "stoffern"
+  },
+  "bugs": {
+    "url": "https://github.com/stoffern/gl-react-instagramfilters/issues"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "description": "Instagram filters for gl-react and gl-react-native",
+  "devDependencies": {
+    "cz-conventional-changelog": "^1.2.0",
+    "semantic-release": "^4.3.5"
+  },
+  "homepage": "https://github.com/stoffern/gl-react-instagramfilters#readme",
+  "keywords": [
+    "gl-react",
+    "react",
+    "react-native",
+    "gl-react-native",
+    "instagram",
+    "filters",
+    "image",
+    "filters"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "gl-react-instagramfilters",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoffern/gl-react-instagramfilters.git"
+  },
+  "scripts": {
+    "commit": "git-cz",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "version": "0.2.0"
+}
