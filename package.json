@@ -1,22 +1,22 @@
 {
   "_args": [
     [
-      "gl-react-instagramfilters@0.2.0",
+      "gl-fl@0.2.0",
       "/Users/bachir/react-native-crop-gl-react"
     ]
   ],
-  "_from": "gl-react-instagramfilters@0.2.0",
-  "_id": "gl-react-instagramfilters@0.2.0",
+  "_from": "gl-fl@0.2.0",
+  "_id": "gl-fl@0.2.0",
   "_inBundle": false,
   "_integrity": "sha1-t7pFmdjtHJe0lyUQ7+24tGglaHM=",
-  "_location": "/gl-react-instagramfilters",
+  "_location": "/gl-fl",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "gl-react-instagramfilters@0.2.0",
-    "name": "gl-react-instagramfilters",
-    "escapedName": "gl-react-instagramfilters",
+    "raw": "gl-fl@0.2.0",
+    "name": "gl-fl",
+    "escapedName": "gl-fl",
     "rawSpec": "0.2.0",
     "saveSpec": null,
     "fetchSpec": "0.2.0"
@@ -24,14 +24,14 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/gl-react-instagramfilters/-/gl-react-instagramfilters-0.2.0.tgz",
+  "_resolved": "https://registry.npmjs.org/gl-fl/-/gl-fl-0.2.0.tgz",
   "_spec": "0.2.0",
   "_where": "/Users/bachir/react-native-crop-gl-react",
   "author": {
     "name": "stoffern"
   },
   "bugs": {
-    "url": "https://github.com/stoffern/gl-react-instagramfilters/issues"
+    "url": "https://github.com/stoffern/gl-fl/issues"
   },
   "config": {
     "commitizen": {
@@ -43,7 +43,7 @@
     "cz-conventional-changelog": "^1.2.0",
     "semantic-release": "^4.3.5"
   },
-  "homepage": "https://github.com/stoffern/gl-react-instagramfilters#readme",
+  "homepage": "https://github.com/stoffern/gl-fl#readme",
   "keywords": [
     "gl-react",
     "react",
@@ -56,10 +56,10 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "gl-react-instagramfilters",
+  "name": "gl-fl",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stoffern/gl-react-instagramfilters.git"
+    "url": "git+https://github.com/stoffern/gl-fl.git"
   },
   "scripts": {
     "commit": "git-cz",
